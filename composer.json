@@ -5,7 +5,7 @@
     "keywords": ["laravel", "admin", "grid", "form"],
     "homepage": "https://github.com/wolltec/laravel-admin",
     "license": "MIT",
-    "version": "v1.8",
+    "version": "v1.8.0",
     "authors": [
         {
             "name": "jodu",
